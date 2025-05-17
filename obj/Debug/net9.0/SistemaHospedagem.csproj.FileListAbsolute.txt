@@ -1,0 +1,15 @@
+C:\Users\Eryck\OneDrive\Documentos\dev\C#\Desafio\SistemaHospedagem\bin\Debug\net9.0\SistemaHospedagem.exe
+C:\Users\Eryck\OneDrive\Documentos\dev\C#\Desafio\SistemaHospedagem\bin\Debug\net9.0\SistemaHospedagem.deps.json
+C:\Users\Eryck\OneDrive\Documentos\dev\C#\Desafio\SistemaHospedagem\bin\Debug\net9.0\SistemaHospedagem.runtimeconfig.json
+C:\Users\Eryck\OneDrive\Documentos\dev\C#\Desafio\SistemaHospedagem\bin\Debug\net9.0\SistemaHospedagem.dll
+C:\Users\Eryck\OneDrive\Documentos\dev\C#\Desafio\SistemaHospedagem\bin\Debug\net9.0\SistemaHospedagem.pdb
+C:\Users\Eryck\OneDrive\Documentos\dev\C#\Desafio\SistemaHospedagem\obj\Debug\net9.0\SistemaHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eryck\OneDrive\Documentos\dev\C#\Desafio\SistemaHospedagem\obj\Debug\net9.0\SistemaHospedagem.AssemblyInfoInputs.cache
+C:\Users\Eryck\OneDrive\Documentos\dev\C#\Desafio\SistemaHospedagem\obj\Debug\net9.0\SistemaHospedagem.AssemblyInfo.cs
+C:\Users\Eryck\OneDrive\Documentos\dev\C#\Desafio\SistemaHospedagem\obj\Debug\net9.0\SistemaHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\Eryck\OneDrive\Documentos\dev\C#\Desafio\SistemaHospedagem\obj\Debug\net9.0\SistemaHospedagem.sourcelink.json
+C:\Users\Eryck\OneDrive\Documentos\dev\C#\Desafio\SistemaHospedagem\obj\Debug\net9.0\SistemaHospedagem.dll
+C:\Users\Eryck\OneDrive\Documentos\dev\C#\Desafio\SistemaHospedagem\obj\Debug\net9.0\refint\SistemaHospedagem.dll
+C:\Users\Eryck\OneDrive\Documentos\dev\C#\Desafio\SistemaHospedagem\obj\Debug\net9.0\SistemaHospedagem.pdb
+C:\Users\Eryck\OneDrive\Documentos\dev\C#\Desafio\SistemaHospedagem\obj\Debug\net9.0\SistemaHospedagem.genruntimeconfig.cache
+C:\Users\Eryck\OneDrive\Documentos\dev\C#\Desafio\SistemaHospedagem\obj\Debug\net9.0\ref\SistemaHospedagem.dll
