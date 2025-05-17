@@ -43,7 +43,7 @@ public class Reserva
         decimal valor = DiasReservados * Suite.ValorDiaria;
 
         // Regra: Caso os dias reservados forem maior ou igual a 10, conceder um desconto de 10%
-        if (DiasReservados == 10)
+        if (DiasReservados >= 10)
         {
             valor = valor * (1 - 10m / 100m);
         }        
